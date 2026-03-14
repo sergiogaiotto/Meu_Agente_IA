@@ -65,7 +65,7 @@ Como o erro diz que a "extensão falhou ao ativar", você precisa forçar o rein
 . Digite "Developer: Reload Window" e dê Enter.
 
 
-'''bash
+```bash
 {
     "version": "0.2.0",
     "configurations": [
@@ -85,7 +85,7 @@ Como o erro diz que a "extensão falhou ao ativar", você precisa forçar o rein
         }
     ]
 }
-'''
+```
 
 Acesse: http://localhost:8000
 
