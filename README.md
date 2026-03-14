@@ -60,11 +60,11 @@ A Microsoft separou o debugger em uma extensão própria. Se você quer usar o t
 . Clique em Instalar.
 
 # 2. Recarregue o VS Code (Obrigatório)
-Como o erro diz que a "extensão falhou ao ativar", você precisa forçar o reinício dela:
 . Pressione Ctrl + Shift + P.
 . Digite "Developer: Reload Window" e dê Enter.
 
 
+launch.json
 ```bash
 {
     "version": "0.2.0",
