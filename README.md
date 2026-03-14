@@ -152,7 +152,7 @@ Acesse: http://localhost:8000
 - **Vector Store**: FAISS (CPU)
 - **Busca Web**: DuckDuckGo Search
 - **Frontend**: HTML5, Tailwind CSS, JavaScript vanilla
-- **Design**: Identidade visual Fala Gaiotto (laranja + dark)
+- **Design**: Identidade visual laranja + dark
 
 ## Autor
 
